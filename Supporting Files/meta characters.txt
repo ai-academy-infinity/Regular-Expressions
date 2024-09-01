@@ -1,5 +1,3 @@
-
-
 Dot Character:
 .       - Any Character Except New Line
 
@@ -14,7 +12,6 @@ Short Hand Characters (\Literal) :
 
 
 Anchors: -  position of the pattern in relation to a line of text
-
 ^       - Beginning of a String or .
 $       - End of a String
 
