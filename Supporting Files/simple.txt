@@ -1,0 +1,24 @@
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+Ha HaHa
+
+cat
+bat
+rat
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+ai-academy-infinity.com
+
+321-555-4321
+123.555.1234
+123*456*7890
+
+Mr. Rakesh
+Mr Smith
+Ms Sukshitha
+Mrs. Robinson
+Mr. T

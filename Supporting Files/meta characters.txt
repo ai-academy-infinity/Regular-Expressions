@@ -1,0 +1,42 @@
+
+
+Dot Character:
+.       - Any Character Except New Line
+
+
+Short Hand Characters (\Literal) :
+\d      - Digit (0-9)
+\D      - Not a Digit (0-9)
+\w      - Word Character (a-z, A-Z, 0-9, _)
+\W      - Not a Word Character
+\s      - Whitespace (space, tab, newline)
+\S      - Not Whitespace (space, tab, newline)
+
+
+Anchors: -  position of the pattern in relation to a line of text
+
+^       - Beginning of a String or .
+$       - End of a String
+
+
+Boundary Characters:
+\b      - Word Boundary
+\B      - Not a Word Boundary
+
+
+Character Sets/Classes:
+[]      - Matches Characters in brackets
+[^ ]    - Matches Characters NOT in brackets
+
+
+Grouping Characters:
+|       - Either Or
+( )     - Group
+
+
+Quantifiers:
+*       - 0 or More
++       - 1 or More
+?       - 0 or One
+{3}     - Exact Number
+{3,4}   - Range of Numbers (Minimum, Maximum)
